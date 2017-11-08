@@ -1,0 +1,15 @@
+.footer {
+    height: 50px;
+    margin-top: 20px;
+    color: #fff;
+}
+
+.footer a {
+	color: #fff;
+}
+
+.meta-info {
+	float: right;
+	font-size: 10px;
+	margin: 10px;
+}
